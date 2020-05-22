@@ -1,4 +1,4 @@
-b.race_results.insert_many(races)b.race_results.insert_many(races)from bs4 import BeautifulSoup as bs 
+from bs4 import BeautifulSoup as bs 
 from splinter import Browser
 import time
 import pymongo
