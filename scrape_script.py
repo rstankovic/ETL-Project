@@ -33,5 +33,6 @@ def iterate_f1(years_list):
 
     return year_data
 
-year_data = iterate_f1(scrape_f1())
-print(year_data['1950'].head())
+def scrape():
+    year_data = iterate_f1(scrape_f1())
+    return year_data
