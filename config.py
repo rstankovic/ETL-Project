@@ -1,1 +1,1 @@
-password = "VJBeta@42"
+password = "######42"
